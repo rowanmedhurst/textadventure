@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/01 13:46:14.342.cpp,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.cpp=D:\dev\riotrec\TFormMain.cpp</Transaction>
+    <Transaction>2017/10/01 13:46:14.342.h,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.h=D:\dev\riotrec\TFormMain.h</Transaction>
+    <Transaction>2017/10/01 13:46:14.342.dfm,C:\Users\Rowan\Documents\Borland Studio Projects\Unit1.dfm=D:\dev\riotrec\TFormMain.dfm</Transaction>
+    <Transaction>2017/10/01 13:46:19.840.bdsproj,C:\Users\Rowan\Documents\Borland Studio Projects\Project1.bdsproj=D:\dev\riotrec\Riotrec.bdsproj</Transaction>
+    <Transaction>2017/10/05 02:04:42.289.cpp,D:\dev\riotrec\Unit1.cpp=D:\dev\riotrec\TAlbum.cpp</Transaction>
+    <Transaction>2017/10/05 02:04:42.289.h,D:\dev\riotrec\Unit1.h=D:\dev\riotrec\TAlbum.h</Transaction>
+    <Transaction>2017/10/05 10:10:36.926.cpp,D:\dev\riotrec\PassWord.cpp=D:\dev\riotrec\TDlgPassword.cpp</Transaction>
+    <Transaction>2017/10/05 10:10:36.926.h,D:\dev\riotrec\PassWord.h=D:\dev\riotrec\TDlgPassword.h</Transaction>
+    <Transaction>2017/10/05 10:10:36.926.dfm,D:\dev\riotrec\PassWord.dfm=D:\dev\riotrec\TDlgPassword.dfm</Transaction>
+    <Transaction>2017/10/05 10:54:57.877.cpp,D:\dev\riotrec\Unit1.cpp=D:\dev\riotrec\TFormReport.cpp</Transaction>
+    <Transaction>2017/10/05 10:54:57.877.h,D:\dev\riotrec\Unit1.h=D:\dev\riotrec\TFormReport.h</Transaction>
+    <Transaction>2017/10/05 10:54:57.877.dfm,D:\dev\riotrec\Unit1.dfm=D:\dev\riotrec\TFormReport.dfm</Transaction>
+    <Transaction>2017/10/05 13:25:42.975.cpp,D:\dev\riotrec\Unit1.cpp=D:\dev\riotrec\TFormPreview.cpp</Transaction>
+    <Transaction>2017/10/05 13:25:42.975.h,D:\dev\riotrec\Unit1.h=D:\dev\riotrec\TFormPreview.h</Transaction>
+    <Transaction>2017/10/05 13:25:42.975.dfm,D:\dev\riotrec\Unit1.dfm=D:\dev\riotrec\TFormPreview.dfm</Transaction>
+    <Transaction>2017/12/16 19:14:37.957.bdsproj,D:\dev\textAdventure\Riotrec.bdsproj=D:\dev\textAdventure\textAdventure.bdsproj</Transaction>
+    <Transaction>2017/12/16 19:17:07.159.cpp,D:\dev\textAdventure\TDlgPassword.cpp=</Transaction>
+    <Transaction>2017/12/16 19:17:07.159.dfm,D:\dev\textAdventure\TDlgPassword.dfm=</Transaction>
+    <Transaction>2017/12/16 19:17:12.560.cpp,D:\dev\textAdventure\TAlbum.cpp=</Transaction>
+    <Transaction>2017/12/16 19:23:52.399.cpp,D:\dev\textAdventure\TFormPreview.cpp=D:\dev\textAdventure\TFormQuest.cpp</Transaction>
+    <Transaction>2017/12/16 19:23:52.399.h,D:\dev\textAdventure\TFormPreview.h=D:\dev\textAdventure\TFormQuest.h</Transaction>
+    <Transaction>2017/12/16 19:23:52.399.dfm,D:\dev\textAdventure\TFormPreview.dfm=D:\dev\textAdventure\TFormQuest.dfm</Transaction>
+    <Transaction>2017/12/16 19:24:08.620.cpp,D:\dev\textAdventure\TFormReport.cpp=D:\dev\textAdventure\TFormItems.cpp</Transaction>
+    <Transaction>2017/12/16 19:24:08.620.h,D:\dev\textAdventure\TFormReport.h=D:\dev\textAdventure\TFormItems.h</Transaction>
+    <Transaction>2017/12/16 19:24:08.620.dfm,D:\dev\textAdventure\TFormReport.dfm=D:\dev\textAdventure\TFormItems.dfm</Transaction>
+    <Transaction>2017/12/17 00:10:32.087.cpp,D:\dev\textAdventure\Unit1.cpp=D:\dev\textAdventure\TMultiPhrase.cpp</Transaction>
+    <Transaction>2017/12/17 00:10:32.087.h,D:\dev\textAdventure\Unit1.h=D:\dev\textAdventure\TMultiPhrase.h</Transaction>
+    <Transaction>2017/12/17 10:17:22.640.cpp,D:\dev\textAdventure\Unit1.cpp=D:\dev\textAdventure\TLocation.cpp</Transaction>
+    <Transaction>2017/12/17 10:17:22.640.h,D:\dev\textAdventure\Unit1.h=D:\dev\textAdventure\TLocation.h</Transaction>
+    <Transaction>2017/12/17 12:22:20.591.cpp,D:\dev\textAdventure\Unit1.cpp=D:\dev\textAdventure\TPlayer.cpp</Transaction>
+    <Transaction>2017/12/17 12:22:20.591.h,D:\dev\textAdventure\Unit1.h=D:\dev\textAdventure\TPlayer.h</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,35 @@
+object FormItems: TFormItems
+  Left = 154
+  Top = 652
+  AlphaBlend = True
+  AlphaBlendValue = 235
+  BorderStyle = bsSizeToolWin
+  Caption = '(items)'
+  ClientHeight = 171
+  ClientWidth = 392
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clBlack
+  Font.Height = -11
+  Font.Name = 'Calibri'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poDesigned
+  Visible = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Report: TMemo
+    Left = 0
+    Top = 0
+    Width = 392
+    Height = 171
+    TabStop = False
+    Align = alClient
+    Color = clSilver
+    ReadOnly = True
+    ScrollBars = ssVertical
+    TabOrder = 0
+    ExplicitLeft = -4
+  end
+end
